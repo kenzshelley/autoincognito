@@ -4,7 +4,6 @@
   "name": "AutoIncognito",
   "description": "This extension allows users to specify domains that should always be automatically opened in an incognito window",
   "version": "1.0",
-  "content_security_policy": "script-src 'self' https://cdn.firebase.com https://*.firebaseio.com https://*.firebaseio-demo.com https://connect.facebook.net/*; object-src 'self'",
   "background": {
     "page": "background.html"
   },
